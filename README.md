@@ -1,7 +1,7 @@
-Hi,I'm Nonkululeko .A Junior data scientist from South Africe.I am Passionate about data science
+Hi,I'm Nonkululeko .A Data Scientist from South Africe.I am Passionate about data science
 
 👀 I’m interested in  Data science and statistics
-🌱 I’m currently Junior Data Scientist
+🌱 I’m currently a Data Scientist
 💞️ I’m looking to collaborate on Data Science projects 
 📫 How to reach me: email: nonkululeko.nhlapho2805@gmail.com
 
